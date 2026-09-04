@@ -32,11 +32,18 @@ The rendered clips were edited together into the final cinematic. Cuts and scene
 
 ## Renders & Media
 
-<img src="LaFerrari_imagers/001.png" width="600">
-
-<img src="LaFerrari_imagers/006.png" width="600">
-
-<img src="LaFerrari_imagers/003.png" width="600">
+<table>
+  <tr>
+    <td><img src="LaFerrari_imagers/001.png" width="450"></td>
+    <td><img src="LaFerrari_imagers/006.png" width="450"></td>
+  </tr>
+</table>
+<table>
+  <tr>
+    <td><img src="LaFerrari_imagers/002.png" width="450"></td>
+    <td><img src="LaFerrari_imagers/003.png" width="450"></td>
+  </tr>
+</table>
 
 ## Source & Credits
 
