@@ -28,7 +28,7 @@ The rendered clips were edited together into the final cinematic. Cuts and scene
 
 ## Final Video
 
-**[Watch the Full Video](VIDEO_LINK)**
+**[Watch the Full Video](https://youtube.com/shorts/UCaVigC117I?si=yJ42UXRwK6nM4fag)**
 
 ## Renders & Media
 
