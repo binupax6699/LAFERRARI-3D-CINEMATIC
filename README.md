@@ -1,5 +1,13 @@
 # LAFERRARI — 3D CINEMATIC
 
+<table>
+  <tr>
+    <td><img src="LaFerrari_imagers/001.png" width="450"></td>
+    <td><img src="LaFerrari_imagers/006.png" width="450"></td>
+  </tr>
+</table>
+
+
 ## Overview
 
 A cinematic 3D LaFerrari animation created in Blender. I started with a LaFerrari model sourced from Sketchfab, then modified and refined it with my own materials, textures, camera animation, rendering, and video editing.
@@ -30,14 +38,6 @@ The rendered clips were edited together into the final cinematic. Cuts and scene
 
 **[Watch the Full Video](https://youtube.com/shorts/UCaVigC117I?si=yJ42UXRwK6nM4fag)**
 
-## Renders & Media
-
-<table>
-  <tr>
-    <td><img src="LaFerrari_imagers/001.png" width="450"></td>
-    <td><img src="LaFerrari_imagers/006.png" width="450"></td>
-  </tr>
-</table>
 <table>
   <tr>
     <td><img src="LaFerrari_imagers/002.png" width="450"></td>
